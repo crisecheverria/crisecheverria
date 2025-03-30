@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on [Etraveli](https://www.etraveligroup.com)
+- 🔭 I’m currently working on [Etraveli](https://www.etraveligroup.com) and also having fun building [Code Quest](https://quest.cristianecheverria.com)
 - 🌱 I’m currently learning Go, Lua
 - 👯 I’m looking to collaborate on Open Source
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cristian-echeverria-martinez/), [X](https://x.com/cecheverri4)

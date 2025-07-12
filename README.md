@@ -74,7 +74,7 @@ I'm a software developer living and working in Sweden, originally from Honduras.
 
 **Tools & Platforms:**
 - Neovim (recently switched and loving it!)
-- [Add your preferred tools, frameworks, databases, etc.]
+- Living in the Terminal (tmux, ghostty)
 
 ## 🎯 Interests & Hobbies
 - **Neovim Enthusiast** - Recently made the switch and constantly tuning my setup

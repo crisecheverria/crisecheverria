@@ -80,6 +80,7 @@ I'm a software developer living and working in Sweden, originally from Honduras.
 - **Neovim Enthusiast** - Recently made the switch and constantly tuning my setup
 - **Reddit Browser** - Staying updated with the latest Neovim news and tips
 - **Open Source Contributor** - Looking for meaningful projects to contribute to
+- **AI:** - Reading and testing about AI related tools almost daily and sharing tips & tricks on my youtube channel
 
 ## 📫 Let's Connect!
 - **X (Twitter):** [@cecheverri4](https://x.com/cecheverri4)

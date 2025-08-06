@@ -21,6 +21,7 @@ I'm a software developer living and working in Sweden, originally from Honduras.
 
 ### Etraveli Group
 *Current Position*
+Gothenburg, Sweden
 - Working on travel technology solutions
 - Contributing to scalable systems that serve millions of users
 

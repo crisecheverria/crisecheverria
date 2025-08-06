@@ -20,8 +20,7 @@ I'm a software developer living and working in Sweden, originally from Honduras.
 ## 💼 Professional Experience
 
 ### Etraveli Group
-*Current Position*
-Gothenburg, Sweden
+*Current Position* - Gothenburg, Sweden
 - Working on travel technology solutions
 - Contributing to scalable systems that serve millions of users
 
@@ -33,14 +32,15 @@ Gothenburg, Sweden
 - **Tech Stack:** Next.js, SWR, MSW, GitHub, Material UI
 
 ### Volvo Group Connected Solutions
-*Frontend Consultant* - Fuel and Environment Team
+*Frontend Consultant* - Gothenburg, Sweden 
+- Fuel and Environment Team
 - Helped build Volvo Connect, Volvo Group's latest web application for customers
 - Contributed to frontend development and user experience improvements
 - Worked within the fuel and environment team to deliver customer-facing solutions
 - **Tech Stack:** React
 
 ### Brinja.se
-*Fullstack Developer*
+*Fullstack Developer* - Gothenburg, Sweden
 - Refactored mobile application from scratch using React Native
 - Set up cloud infrastructure using AWS IoT for connected device solutions
 - Coached and mentored interns in development practices

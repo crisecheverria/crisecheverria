@@ -81,6 +81,7 @@ I'm a software developer living and working in Sweden, originally from Honduras.
 - AWS
 - Digital Ocean
 - React Native
+- Ruby on Rails
 
 **Tools & Platforms:**
 - Neovim (recently switched and loving it!)

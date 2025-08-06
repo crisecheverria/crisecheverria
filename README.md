@@ -73,6 +73,14 @@ I'm a software developer living and working in Sweden, originally from Honduras.
 - Lua
 - Python (currently learning)
 - SQL (PostgreSQL)
+- Firebase
+- MongoDB
+- Docker
+- Git
+- CI/CD
+- AWS
+- Digital Ocean
+- React Native
 
 **Tools & Platforms:**
 - Neovim (recently switched and loving it!)

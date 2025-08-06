@@ -23,6 +23,7 @@ I'm a software developer living and working in Sweden, originally from Honduras.
 *Current Position* - Gothenburg, Sweden
 - Working on travel technology solutions
 - Contributing to scalable systems that serve millions of users
+- *Tech*: React, GraphQL, Monorepo, Java, Playright
 
 ### Volvo Cars
 *Senior Frontend Developer* - Gothenburg, Sweden
@@ -37,7 +38,7 @@ I'm a software developer living and working in Sweden, originally from Honduras.
 - Helped build Volvo Connect, Volvo Group's latest web application for customers
 - Contributed to frontend development and user experience improvements
 - Worked within the fuel and environment team to deliver customer-facing solutions
-- **Tech Stack:** React
+- **Tech Stack:** React, Redux, Unit Test
 
 ### Brinja.se
 *Fullstack Developer* - Gothenburg, Sweden

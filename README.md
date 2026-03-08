@@ -9,7 +9,6 @@ I'm a software developer living and working in Sweden, originally from Honduras.
 ## 🌱 Learning & Growing
 - **Go** - Diving deep into Go development
 - **Lua** - Expanding my scripting capabilities, especially for Neovim configuration
-- **Python** - Currently learning Python development
 - **Open Source Contributions** - Always looking for interesting projects to contribute to
 
 ## 🎓 Education

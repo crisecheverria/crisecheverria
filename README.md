@@ -4,6 +4,9 @@ I'm a software developer living and working in Sweden, originally from Honduras.
 
 ## 🚀 Currently Working On
 - **[Etraveli Group](https://www.etraveligroup.com)** - Building travel technology solutions
+
+Fun projects:
+- **[Svenska](https://github.com/crisecheverria/svenska)** - A terminal app for learning/practice Swedish
 - **[Code Quest](https://quest.cristianecheverria.com)** - A fun side project I'm developing
 
 ## 🌱 Learning & Growing

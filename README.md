@@ -1,6 +1,6 @@
 # Hi there, I'm Cristian! 👋
 
-I'm a software developer living and working in Sweden, originally from Honduras. I'm passionate about building quality software and contributing to the open-source community.
+I'm a software developer living and working in Sweden. I'm passionate about building quality software and contributing to the open-source community.
 
 ## 🚀 Currently Working On
 - **[Etraveli Group](https://www.etraveligroup.com)** - Building travel technology solutions

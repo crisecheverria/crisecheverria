@@ -6,8 +6,8 @@ I'm a software developer living and working in Sweden. I'm passionate about buil
 - **[Etraveli Group](https://www.etraveligroup.com)** - Building travel technology solutions
 
 Fun projects:
-- **[Titan](https://crisecheverria.com/titan)** - AI Native Agent Work Environment Desktop App
-- **[Notas](https://crisecheverria.com/notas)** - Rust + GPUI Markdown Notes Desktop App
+- **[Titan](https://cristianecheverria.com/titan)** - AI Native Agent Work Environment Desktop App
+- **[Notas](https://cristianecheverria.com/notas)** - Rust + GPUI Markdown Notes Desktop App
 - **[Svenska](https://github.com/crisecheverria/svenska)** - A terminal app for learning/practice Swedish
 - **[Code Quest](https://quest.cristianecheverria.com)** - A fun side project I was developing
 

@@ -43,6 +43,10 @@ Fun projects:
 - Worked within the fuel and environment team to deliver customer-facing solutions
 - **Tech Stack:** React, Redux, Unit Test
 
+### Cumplo.com
+*Frontend Developer* - Santiago, Chile, Remote
+- Helped launch [Financiamiento](https://financiamiento.cumplo.cl/) fintech products for Chile, Mexico and Peru.
+
 ### Brinja.se
 *Fullstack Developer* - Gothenburg, Sweden
 - Refactored mobile application from scratch using React Native
